@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.onLightYellow {
+    box-shadow: -1px 15px 47px 47px rgba(236,235,118,0.75);
+-webkit-box-shadow: -1px 15px 47px 47px rgba(236,235,118,0.75);
+-moz-box-shadow: -1px 15px 47px 47px rgba(236,235,118,0.75);
+}
+
+.onLightRed {
+    box-shadow: -1px 11px 47px 47px rgba(246,117,96,0.75);
+    -webkit-box-shadow: -1px 11px 47px 47px rgba(246,117,96,0.75);
+    -moz-box-shadow: -1px 11px 47px 47px rgba(246,117,96,0.75);
+}
+
+.onLightGreen {
+    box-shadow: -1px 11px 47px 47px rgba(179,228,159,0.75);
+    -webkit-box-shadow: -1px 11px 47px 47px rgba(179,228,159,0.75);
+    -moz-box-shadow: -1px 11px 47px 47px rgba(179,228,159,0.75);
+}
